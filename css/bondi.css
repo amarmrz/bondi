@@ -1,0 +1,40 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.nav-item {
+    padding-right: 20px;
+
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+}
+
+.btn {
+    background-color: transparent;
+    border: white solid 2px;
+    border-radius: 30px;
+    font-size: 30px;
+    text-align: center;
+    width: 250px;
+    margin-bottom: 60px;
+}
+
+.btn-primary:hover {
+    background-color: transparent;
+    border: white solid 2px;
+    border-radius: 30px;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    height: 50px;
+    width: 50px;
+    color: brown;
+
+}
