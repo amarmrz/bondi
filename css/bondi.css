@@ -1,5 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
+
 }
 
 .nav-item {
@@ -27,8 +28,9 @@ body {
     border-radius: 30px;
 }
 
-h1 {
+.carousel-caption h1 {
     margin-bottom: 30px;
+
 }
 
 .carousel-control-next-icon,
@@ -37,4 +39,94 @@ h1 {
     width: 50px;
     color: brown;
 
+}
+
+.navbar-dark .navbar-toggler {
+    border: white solid 2px;
+}
+
+/*-------------------*/
+.about {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.about .container span {
+    color: red;
+}
+
+.navbar-brand span {
+    color: red;
+}
+
+.about .lead {
+    padding-top: 15px;
+    color: #888;
+    font-size: 25px;
+}
+
+.about h1 {
+    font-weight: bold;
+}
+
+.features {
+    background-color: #EEE;
+    padding: 50px 50px;
+}
+
+.features h1 {
+    margin-bottom: 50px;
+}
+
+.features .feat p {
+    line-height: 30px;
+}
+
+.features .feat {
+    padding-right: 40px;
+    margin-bottom: 30px;
+}
+
+.feat .svg-inline--fa {
+    font-size: 36px;
+    margin-bottom: 16px;
+    color: #666;
+
+}
+
+.feat p {
+    text-align: justify;
+    word-spacing: 0px;
+
+}
+
+.container-fluid img {
+    width: 100%;
+    object-fit: contain;
+
+
+}
+
+.container-fluid {
+    padding: 0;
+
+}
+
+.Nature {
+    background-color: #EEE;
+    padding-top: 60px;
+}
+
+.Nature h1 {
+    margin-bottom: 50px;
+}
+
+/*--------------------------*/
+.testienial {
+    padding: 50px 0 50px 0;
+}
+
+.testienial h1 {
+    font-weight: bold;
+    margin-bottom: 30px;
 }

@@ -85,14 +85,103 @@
     </button>
   </div>
   <!--end slider-->
+  <!--start section about-->
+  <section class="about text-center">
+    <div class="container">
+      <h1>MEET OUR NEW TEMPLATE <span>Amar Inc.</span></h1>
+      <p class="d-none d-sm-block lead">Is simply dummy text of the industry.Ipsum has been the industry's standard <strong>dummy</strong> text ever since the 1500s</p>
+  </section>
+  </div>
+  <!--end section about-->
+  <!--start section feature-->
+  <section class="features text-center">
+    <div class="container">
+      <h1>Features</h1>
+      <div class="row">
+
+        <div class="col-lg-3 col-md-6">
+
+          <div class="feat">
+            <i class="fa-solid fa-circle-check"></i>
+            <h3>Hi first icon</h3>
+            <p>Is simply dummy text of the industry.Ipsum has been the industry's standard Is simply dummy text of the industry.Ipsum has been the industry's standard</p>
+          </div>
+
+        </div>
+
+        <div class="col-lg-3 col-md-6">
+
+          <div class="feat">
+            <i class="fa-solid fa-face-smile"></i>
+            <h3>Hi first icon</h3>
+            <p>Is simply dummy text of the industry.Ipsum has been the industry's standard Is simply dummy text of the industry.Ipsum has been the industry's standard</p>
+          </div>
+
+        </div>
+
+        <div class="col-lg-3 col-md-6">
+
+          <div class="feat">
+            <i class="fa-solid fa-anchor"></i>
+            <h3>Hi first icon</h3>
+            <p>Is simply dummy text of the industry.Ipsum has been the industry's standard Is simply dummy text of the industry.Ipsum has been the industry's standard</p>
+          </div>
+
+        </div>
+
+        <div class="col-lg-3 col-md-6">
+
+          <div class="feat">
+            <i class="fa-solid fa-cube"></i>
+            <h3>Hi first icon</h3>
+            <p>Is simply dummy text of the industry.Ipsum has been the industry's standard Is simply dummy text of the industry.Ipsum has been the industry's standard</p>
+          </div>
+
+        </div>
 
 
+      </div>
+    </div>
 
+  </section>
+  <!--end  section feature-->
+  <!--********************************-->
+  <section class="Nature text-center">
+    <div class="container-fluid">
+      <h1>Nature</h1>
+      <img src="images\adam-kool-ndN00KmbJ1c-unsplash.jpg" alt="feg">
+    </div>
+  </section>
+  <!--********************************-->
+  <!--start  section testimenial-->
+  <section class="testienial text-center">
+    <div class="container">
+      <h1>What our client say</h1>
+      <div id="testimen" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+          <button type="button" data-bs-target="#testimen" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+          <button type="button" data-bs-target="#testimen" data-bs-slide-to="1" aria-label="Slide 2"></button>
+          <button type="button" data-bs-target="#testimen" data-bs-slide-to="2" aria-label="Slide 3"></button>
+        </div>
+        <div class="carousel-inner">
+          <div class="carousel-item active" data-bs-interval="5000">
+            <p class="lead">Is simply dummy text of the industry.Ipsum has been the industry's standard Is simply dummy text of the indu</p>
+            <span>Ali bentiba</span>
+          </div>
 
+          <div class="carousel-item" data-bs-interval="5000">
+            <p class="lead">Is simply dummy text of the industry.Ipsum has been the industry's standard Is simply dummy text of the indu</p>
+            <span>Ali bentiba</span>
+          </div>
+          <div class="carousel-item" data-bs-interval="5000">
+            <p class="lead">Is simply dummy text of the industry.Ipsum has been the industry's standard Is simply dummy text of the indu</p>
+            <span>Ali bentiba</span>
+          </div>
+        </div>
+      </div>
+    </div>
 
-
-
-
+  </section>
 
   <script src="js/bootstrap.bundle.min.js"></script>
   <script src="js/all.min.js"></script>
