@@ -149,7 +149,7 @@
   <section class="Nature text-center">
     <div class="container-fluid">
       <h1>Nature</h1>
-      <img src="images\adam-kool-ndN00KmbJ1c-unsplash.jpg" alt="feg">
+      <!--<img src="images\adam-kool-ndN00KmbJ1c-unsplash.jpg" alt="feg"> -->
     </div>
   </section>
   <!--********************************-->
@@ -179,10 +179,169 @@
           </div>
         </div>
       </div>
+
     </div>
 
   </section>
+  <section class="price_table text-center">
+    <div class="container">
+      <h1>our amazing prices</h1>
+      <div class="row">
 
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="price-box">
+            <h2 class="text-primary">plan#1</h2>
+            <p class="center-block">40§</p>
+            <ul class="list-unstyled">
+              <li>Space: 30GB</li>
+              <li>Email: 30</li>
+              <li>lbs: 2 IP</li>
+              <li>Databases: 10</li>
+              <li>Ftp accounts: 5</li>
+            </ul>
+            <a href="#" class="btn btn-primary">Order Now</a>
+          </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="price-box">
+            <h2 class="text-success">plan#2</h2>
+            <p class="center-block">40§</p>
+            <ul class="list-unstyled">
+              <li>Space: 30GB</li>
+              <li>Email: 30</li>
+              <li>lbs: 2 IP</li>
+              <li>Databases: 10</li>
+              <li>Ftp accounts: 5</li>
+            </ul>
+            <a href="#" class="btn btn-success">Order Now</a>
+          </div>
+        </div>
+
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="price-box">
+            <h2 class="text-info">plan#3</h2>
+            <p class="center-block">40§</p>
+            <ul class="list-unstyled">
+              <li>Space: 30GB</li>
+              <li>Email: 30</li>
+              <li>lbs: 2 IP</li>
+              <li>Databases: 10</li>
+              <li>Ftp accounts: 5</li>
+            </ul>
+            <a href="#" class="btn btn-info">Order Now</a>
+          </div>
+
+        </div>
+        <div class="col-md-3 col-sm-6 col-xs-12">
+          <div class="price-box">
+            <h2 class="text-danger">plan#4</h2>
+            <p class="center-block">40§</p>
+            <ul class="list-unstyled">
+              <li>Space: 30GB</li>
+              <li>Email: 30</li>
+              <li>lbs: 2 IP</li>
+              <li>Databases: 10</li>
+              <li>Ftp accounts: 5</li>
+            </ul>
+            <a href="#" class="btn btn-danger">Order Now</a>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+
+  </section>
+  <section class="our_team text-center">
+    <div class="team">
+      <div class="container">
+        <h1>Our team</h1>
+        <div class="row">
+          <div class="col-lg-3 col-sm-6">
+            <div class="person">
+              <img class="rounded-circle" src="images/pexels-andrea-piacquadio-733872.jpg" alt="people">
+              <h3>Marissa Omri</h3>
+              <p>This is owner of css grid and the talented girl</p>
+              <i class="fa-brands fa-facebook-square fa-2x"></i>
+              <i class="fa-brands fa-google-plus-square fa-2x"></i>
+              <i class="fa-brands fa-twitter-square fa-2x"></i>
+              <i class="fa-brands fa-youtube-square fa-2x "></i>
+
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="person">
+              <img class="rounded-circle" src="images/pexels-andrea-piacquadio-733872.jpg" alt="people">
+              <h3>Marissa Omri</h3>
+              <p>This is owner of css grid and the talented girl</p>
+              <i class="fa-brands fa-facebook-square fa-2x"></i>
+              <i class="fa-brands fa-google-plus-square fa-2x"></i>
+              <i class="fa-brands fa-twitter-square fa-2x"></i>
+              <i class="fa-brands fa-youtube-square fa-2x "></i>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="person">
+              <img class="rounded-circle" src="images/pexels-andrea-piacquadio-733872.jpg" alt="people">
+              <h3>Marissa Omri</h3>
+              <p>This is owner of css grid and the talented girl</p>
+              <i class="fa-brands fa-facebook-square fa-2x"></i>
+              <i class="fa-brands fa-google-plus-square fa-2x"></i>
+              <i class="fa-brands fa-twitter-square fa-2x"></i>
+              <i class="fa-brands fa-youtube-square fa-2x "></i>
+            </div>
+          </div>
+          <div class="col-lg-3 col-sm-6">
+            <div class="person">
+              <img class="rounded-circle" src="images/pexels-andrea-piacquadio-733872.jpg" alt="people">
+              <h3>Marissa Omri</h3>
+              <p>This is owner of css grid and the talented girl</p>
+              <i class="fa-brands fa-facebook-square fa-2x"></i>
+              <i class="fa-brands fa-google-plus-square fa-2x"></i>
+              <i class="fa-brands fa-twitter-square fa-2x"></i>
+              <i class="fa-brands fa-youtube-square fa-2x "></i>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
+  </section>
+  <section class="Subscribe text-center">
+    <div class="container">
+      <h1>keep in ouch</h1>
+      <p class="lead">Sign Up For Newsletter Dont Worry about Spam we hate it too</p>
+      <form class="form-inline">
+
+        <input class="form-control" type="text" placeholder="Enter your email">
+        <button class="btn btn-danger "><i class="fa-solid fa-arrow-right-to-bracket fa-lg"></i>Subscribe</button>
+
+      </form>
+    </div>
+  </section>
+  </div>
+  </div>
+  <div>
+    <h1>
+      hello
+    </h1>
+  </div>
+  <div>
+    <h1>
+      hello
+    </h1>
+  </div>
+  <div>
+    <h1>
+      hello
+    </h1>
+  </div>
+
+
+
+  <script src="https://kit.fontawesome.com/31b5d2b3ad.js" crossorigin="anonymous"></script>
   <script src="js/bootstrap.bundle.min.js"></script>
   <script src="js/all.min.js"></script>
 </body>

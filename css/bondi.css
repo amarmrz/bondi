@@ -12,7 +12,7 @@ body {
     color: white;
 }
 
-.btn {
+.carousel-caption .btn {
     background-color: transparent;
     border: white solid 2px;
     border-radius: 30px;
@@ -22,7 +22,7 @@ body {
     margin-bottom: 60px;
 }
 
-.btn-primary:hover {
+.carousel-caption .btn-primary:hover {
     background-color: transparent;
     border: white solid 2px;
     border-radius: 30px;
@@ -109,6 +109,10 @@ body {
 
 .container-fluid {
     padding: 0;
+    background: url('../images/adam-kool-ndN00KmbJ1c-unsplash.jpg') no-repeat center center fixed;
+    width: 100%;
+    min-height: 600px;
+
 
 }
 
@@ -129,4 +133,168 @@ body {
 .testienial h1 {
     font-weight: bold;
     margin-bottom: 30px;
+}
+
+.testimen .carousel-indicators {
+    position: static;
+    width: 100%;
+    margin-left: auto;
+    padding-top: 20px;
+
+
+}
+
+.carousel-indicators button {
+    height: 80px;
+    width: 80px
+}
+
+/*----------------------------*/
+.price_table {
+    background: #EEE;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.price_table h1 {
+    margin-bottom: 40px;
+
+}
+
+.price_table .price-box {
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #ddd;
+    margin-bottom: 15px;
+}
+
+.price_table .price-box h2 {
+    margin: 5px 0 15px;
+}
+
+.price_table .price-box:hover p {
+
+    -webkit-transform: scale(1.1, 1.1)rotate(360deg);
+    border: 2px solid #dfdfdf;
+}
+
+.price_table .price-box p {
+    font-size: 35px;
+    font-weight: bold;
+    color: #666;
+    background: #f3f3f3;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    margin: auto;
+    -webkit-transition-duration: 0.7s;
+
+}
+
+.price_table .price-box ul {
+    line-height: 250%;
+    font-size: 18px;
+
+}
+
+.price_table .price-box a {
+    margin-bottom: 5px;
+}
+
+/*---------------------------*/
+.our_team {
+    background: url('../images/ice-cubes-3506781_1920.jpg') no-repeat center center fixed;
+    width: 100%;
+    min-height: 600px;
+}
+
+.our_team .team {
+    background: rgb(2, 2, 2, 0.6);
+    min-height: 600px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.our_team h1 {
+    margin-bottom: 60px;
+}
+
+.person h3 {
+    color: white;
+}
+
+.person p {
+    color: white;
+
+}
+
+.person {
+    margin-bottom: 80px;
+}
+
+.fa-facebook-square {
+    color: white;
+    margin-right: 10px;
+}
+
+.fa-google-plus-square {
+    color: white;
+    margin-right: 10px;
+}
+
+.fa-twitter-square {
+    color: white;
+    margin-right: 10px;
+}
+
+.fa-youtube-square {
+    color: white;
+    margin-right: 10px;
+
+}
+
+/*-----------------*/
+.Subscribe {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background: #EEE;
+}
+
+.Subscribe h1 {
+    color: #888;
+    letter-spacing: 2px;
+    margin-bottom: 30px;
+
+}
+
+.Subscribe p {
+    margin-bottom: 30px;
+
+}
+
+.form-inline .form-control {
+    border-radius: 0px;
+    width: 300px;
+
+    height: 60px;
+
+}
+
+.form-inline .btn {
+    border-radius: 0px;
+    width: 140px;
+    height: 60px;
+}
+
+.form-inline {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-inline .fa-arrow-right-to-bracket {
+    padding-right: 8px;
 }
