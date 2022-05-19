@@ -110,6 +110,7 @@ body {
 
 .nature {
     background: url('../images/adam-kool-ndN00KmbJ1c-unsplash.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
     padding: 50px 0 50px 0;
     background-color: #EEE;
     padding-top: 60px;
@@ -203,6 +204,7 @@ body {
 /*---------------------------*/
 .our_team {
     background: url('../images/ice-cubes-3506781_1920.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
     width: 100%;
     min-height: 600px;
 }
@@ -268,7 +270,7 @@ body {
 
 .Subscribe p {
     margin-bottom: 30px;
-
+  
 }
 
 .form-inline .form-control {
@@ -298,6 +300,7 @@ body {
 
 .statistic {
     background: url(../images/pexels-monoar-rahman-109371.jpg)no-repeat center center fixed;
+    -webkit-background-size: cover;
     min-height: 400px;
     width: 100%;
 }
@@ -322,7 +325,7 @@ body {
 .statistic .stats p {
     font-size: 60px;
     font-weight: 600;
-    margin-bottom: 0;
+    margin-bottom: -10px;
 }
 
 .stats span {
@@ -331,11 +334,55 @@ body {
 
 }
 
-.stats :hover {
+.stats:hover p {
+    color: white;
+
+}
+
+.stats:hover span {
+    color: white;
+
+}
+
+.stats:hover .svg-inline--fa {
     color: white;
 
 }
 
 .stats {
     -webkit-transition: all 0.5s ease-in-out;
+}
+
+.our-skills {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background: #EEE;
+   
+}
+.our-skills h3{
+    margin-top: 0;
+}
+
+.our-skills h1 {
+    padding-bottom: 60px;
+}
+
+.skills-info .lead {
+    text-align:justify ;
+    text-justify: inter-word;
+}
+.skills-info .btn {
+float: left;
+}
+.progress{
+    margin-top: 15px;
+    margin-bottom: 40px;
+    background-color: #aaa;
+    
+}
+.progress-bar{
+    text-align: left;
+    text-indent: 10px;
+    font-size: 18px;
+    font-weight: bold;
 }

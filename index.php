@@ -368,6 +368,52 @@
   </section>
 
 
+  <section class="our-skills text-center">
+    <div class="container">
+      <h1>Our Skills</h1>
+      <div class="row">
+        <!--sart progress-->
+        <div class="col-md-5">
+          <div class="skills-progress ">
+            <div class="progress" style="height: 40px;">
+              <div class="progress-bar progress-bar-primary progress-bar-striped progress-bar-animated " role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" style="width:75% ;">html css</div>
+            </div>
+
+            <div class="progress " style="height: 40px;">
+              <div class="progress-bar progress-bar-primary progress-bar-striped progress-bar-animated " role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90% ;">bootstrap</div>
+            </div>
+            <div class="progress " style="height: 40px;">
+              <div class="progress-bar progress-bar-primary progress-bar-striped progress-bar-animated " role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width:50% ;">Php sql</div>
+            </div>
+            <div class="progress " style="height: 40px;">
+              <div class="progress-bar progress-bar-primary progress-bar-striped progress-bar-animated " role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100" style="width:90% ;">react</div>
+            </div>
+          </div>
+
+        </div>
+        <!--end progress-->
+
+        <!--sart team info-->
+        <div class="col-md-6 offset-md-1">
+          <div class="skills-info">
+            <h3>About The Team</h3>
+            <p class="lead">is simply dummy text of the printing and typesetting industry.
+              Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
+              when an unknown printer took a galley of type and scrambled it to make a type
+              specimen book. It has survived not only five centuries, but also the leap into
+              electronic typesetting, remaining essentially unchanged. It was popularised in
+              the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,
+              and more recently with desktop publishing
+            </p>
+            <button type="button" class="btn btn-primary">Talk With Professional</button>
+          </div>
+        </div>
+        <!--end team info-->
+      </div>
+    </div>
+
+  </section>
+
 
   </div>
   </div>
