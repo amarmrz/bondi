@@ -147,10 +147,11 @@
   <!--end  section feature-->
   <!--********************************-->
   <section class="Nature text-center">
-    <div class="container-fluid">
-      <h1>Nature</h1>
-      <!--<img src="images\adam-kool-ndN00KmbJ1c-unsplash.jpg" alt="feg"> -->
-    </div>
+    <div class="nature">
+      <div class="container">
+        <h1>Nature</h1>
+        <!--<img src="images\adam-kool-ndN00KmbJ1c-unsplash.jpg" alt="feg"> -->
+      </div>
   </section>
   <!--********************************-->
   <!--start  section testimenial-->
@@ -179,7 +180,7 @@
           </div>
         </div>
       </div>
-
+    </div>
     </div>
 
   </section>
@@ -321,6 +322,53 @@
       </form>
     </div>
   </section>
+  <section class="statistic text-center">
+    <div class="stat">
+      <div class="container">
+        <h1>Our Statistics</h1>
+        <div class="row">
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats">
+              <i class="fa-solid fa-user-check fa-4x" style="padding-left:20px ;"></i>
+              <p>1200</p>
+              <span>Our Users </span>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats">
+              <i class="fa-solid fa-code fa-4x"></i>
+              <p>1200</p>
+              <span>Our Users </span>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats">
+              <i class="fa-solid fa-database fa-4x"></i>
+              <p>200</p>
+              <span>Our Users </span>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="stats">
+
+              <i class="fa-solid fa-boxes-packing fa-4x"></i>
+              <p>100</p>
+              <span>Our Users </span>
+            </div>
+          </div>
+
+
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+
   </div>
   </div>
   <div>

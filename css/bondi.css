@@ -107,21 +107,18 @@ body {
 
 }
 
-.container-fluid {
-    padding: 0;
+
+.nature {
     background: url('../images/adam-kool-ndN00KmbJ1c-unsplash.jpg') no-repeat center center fixed;
-    width: 100%;
-    min-height: 600px;
-
-
-}
-
-.Nature {
+    padding: 50px 0 50px 0;
     background-color: #EEE;
     padding-top: 60px;
+    width: 100%;
+    min-height: 600px;
 }
 
 .Nature h1 {
+
     margin-bottom: 50px;
 }
 
@@ -297,4 +294,48 @@ body {
 
 .form-inline .fa-arrow-right-to-bracket {
     padding-right: 8px;
+}
+
+.statistic {
+    background: url(../images/pexels-monoar-rahman-109371.jpg)no-repeat center center fixed;
+    min-height: 400px;
+    width: 100%;
+}
+
+.stat {
+    background-color: rgba(2, 2, 2, 0.6);
+    min-height: 400px;
+    color: #b6b5b5;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.stats {
+    margin-bottom: 30px;
+
+}
+
+.statistic h1 {
+    margin-bottom: 60px;
+}
+
+.statistic .stats p {
+    font-size: 60px;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.stats span {
+    font-size: 30px;
+
+
+}
+
+.stats :hover {
+    color: white;
+
+}
+
+.stats {
+    -webkit-transition: all 0.5s ease-in-out;
 }
