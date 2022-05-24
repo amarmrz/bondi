@@ -270,7 +270,7 @@ body {
 
 .Subscribe p {
     margin-bottom: 30px;
-  
+
 }
 
 .form-inline .form-control {
@@ -357,9 +357,10 @@ body {
     padding-top: 40px;
     padding-bottom: 40px;
     background: #EEE;
-   
+
 }
-.our-skills h3{
+
+.our-skills h3 {
     margin-top: 0;
 }
 
@@ -368,21 +369,56 @@ body {
 }
 
 .skills-info .lead {
-    text-align:justify ;
+    text-align: justify;
     text-justify: inter-word;
 }
+
 .skills-info .btn {
-float: left;
+    float: left;
 }
-.progress{
+
+.progress {
     margin-top: 15px;
     margin-bottom: 40px;
     background-color: #aaa;
-    
+
 }
-.progress-bar{
+
+.progress-bar {
     text-align: left;
     text-indent: 10px;
     font-size: 18px;
     font-weight: bold;
+}
+
+.contcat-us {
+    background: url("../images/pexels-jéshoots-4831.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    width: 100%;
+    min-height: 400px;
+
+}
+
+.fields {
+    background: rgb(2, 2, 2, 0.6);
+    width: 100%;
+    min-height: 400px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.fields .lead {
+    color: white;
+}
+
+.fields h1 {
+    color: white;
+}
+
+.fa-headphones-simple {
+    color: white;
+    padding-bottom: 10px;
+}
+.form-group {
+    margin-bottom: 15px;
 }

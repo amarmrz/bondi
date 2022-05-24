@@ -413,25 +413,47 @@
     </div>
 
   </section>
+  <!-- begin of contact us -->
+  <section class="contcat-us text-center">
+    <div class="fields">
+      <div class="container">
+        <div class="row">
+          <i class="fa-solid fa-headphones-simple fa-4x"></i>
+          <h1>Contact Us</h1>
+          <p class="lead">Feel Free To Contact Us Anytime</p>
 
+          <!-- start contact form -->
 
-  </div>
-  </div>
-  <div>
-    <h1>
-      hello
-    </h1>
-  </div>
-  <div>
-    <h1>
-      hello
-    </h1>
-  </div>
-  <div>
-    <h1>
-      hello
-    </h1>
-  </div>
+          <form role="form">
+
+            <div class="col-md-6">
+              <div class="form-group">
+                <input type="text" class="form-control input-lg" placeholder="UserName">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control input-lg" placeholder="Email">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control input-lg" placeholder="Cell Phone">
+              </div>
+              
+            </div>
+            <div class="col-md-6">
+              
+              <textarea class="form-control input-lg"></textarea>
+            
+          </div>
+          </form>
+           
+          <!-- end contact form -->
+
+        </div>
+      </div>
+    </div>
+
+  </section>
+
+  <!-- end of contact us -->
 
 
 
